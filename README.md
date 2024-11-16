@@ -4,6 +4,8 @@
 
 Эта игра — простой и увлекательный проект, который помогает новичкам изучить основы JavaScript, HTML и CSS, а также понять, как эти технологии могут взаимодействовать для создания интерактивных веб-приложений.
 
+Демо - https://coursme.github.io/tic-tac-toe-game-js/
+
 ![Демонстрация игры](https://github.com/Coursme/tic-tac-toe-game-js/tree/main/ezgif-4-25f49df4a5.gif)
 
 ## О проекте
