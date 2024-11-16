@@ -29,14 +29,8 @@ Cтатья - https://coursme.com/article/kak-sozdat-igru-krestiki-noliki-na-jav
 1. Склонируйте репозиторий:
 git clone https://github.com/Coursme/tic-tac-toe-game-js.git
 
-markdown
-Копировать код
-
 2. Перейдите в папку проекта:
 cd tic-tac-toe-game-js
-
-markdown
-Копировать код
 
 3. Откройте файл `index.html` в браузере, чтобы начать игру.
 
@@ -46,10 +40,6 @@ markdown
 2. Выберите, за кого хотите играть — X или O.
 3. Поочередно заполняйте ячейки на игровом поле.
 4. Побеждает тот, кто первым соберет три своих знака подряд!
-
-## Скриншоты
-
-![Выбор игрока](https://github.com/Coursme/tic-tac-toe-game-js/tree/main/ezgif-4-25f49df4a5.gif)
 
 ## Технологии
 - **HTML**: Структура страницы.
